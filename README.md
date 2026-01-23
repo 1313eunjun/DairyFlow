@@ -1,7 +1,14 @@
 # 🧀 ECSE223 CheECSEManager Project: Team 2
 
-<img width="1506" height="928" alt="image" src="https://github.com/user-attachments/assets/c19197ef-d433-41bc-b423-2a4669c6babe" />
+CheECSEManager is a project that aims to manager the flow of local cheese production from farmers to client companies. The project offers intuitive visualizations and interactive features to help managers make informed decisions about their cheese supply chains.
 
+## Project Stack
+
+- Java 21
+- JavaFX/FXML
+- Gradle
+- JUnit 5
+- Cucumber
 
 ## Getting started
 
@@ -33,6 +40,10 @@ Install `clang-format` and run `clang-format --style=Google -i <filename>` or `c
 CheecseManager is an innovative application that allows businesses to effectively manage the flow of local cheese products from the production line all the way to the clients!
 
 For more information about the CheECSEManager application, please consult the [wiki](../../wiki). there is nothing
+
+## Test Coverage
+
+<img width="1506" height="928" alt="image" src="https://github.com/user-attachments/assets/c19197ef-d433-41bc-b423-2a4669c6babe" />
 
 ## Team Members
 
