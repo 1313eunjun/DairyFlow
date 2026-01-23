@@ -1,5 +1,8 @@
 # 🧀 ECSE223 CheECSEManager Project: Team 2
 
+<img width="1532" height="960" alt="image" src="https://github.com/user-attachments/assets/098b7607-1c57-49f9-bfa0-d988851b2f0c" />
+
+
 CheECSEManager is a project that aims to manager the flow of local cheese production from farmers to client companies. The project offers intuitive visualizations and interactive features to help managers make informed decisions about their cheese supply chains.
 
 ## Project Stack
