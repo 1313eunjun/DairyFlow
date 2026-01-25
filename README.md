@@ -18,3 +18,5 @@ CheECSEmanager is a JavaFX desktop application that manages the flow of local ch
 - Cucumber
 
 ## Demo
+
+![Demo](demo.png)
