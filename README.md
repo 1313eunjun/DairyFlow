@@ -20,3 +20,30 @@ CheECSEmanager is a JavaFX desktop application that manages the flow of local ch
 ## Demo
 
 ![Demo](demo.png)
+
+## 🚀 Build & Run
+
+### Prerequisites
+- Java 21 (recommended)
+- Gradle is optional (project includes the Gradle wrapper: './gradlew')
+
+### Build
+~~~bash
+./gradlew build
+~~~
+
+### Run
+~~~bash
+./gradlew run
+~~~
+
+### Running Tests
+~~~bash
+./gradlew test
+~~~
+
+### Formatting
+~~~bash
+clang-format --style=Google -i src/**/*.java
+- install clang-format (brew install clang-format)
+~~~
